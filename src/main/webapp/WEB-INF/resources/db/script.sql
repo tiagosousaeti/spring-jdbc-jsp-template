@@ -1,0 +1,10 @@
+CREATE DATABASE jdbc;
+
+USE jdbc;
+
+CREATE TABLE product (
+	id INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	nome VARCHAR(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO product (id, nome) values (1, 'LÁPIS');
