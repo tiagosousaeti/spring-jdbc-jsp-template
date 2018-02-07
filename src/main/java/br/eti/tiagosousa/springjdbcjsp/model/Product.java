@@ -13,6 +13,10 @@ public class Product {
 		this.nome = nome;
 	}
 
+	public boolean isNovo(){
+		return id == null;
+	}
+	
 	public Integer getId() {
 		return id;
 	}

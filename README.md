@@ -11,8 +11,11 @@ Template JDBC com JSP
 - Spring JDBC 5.0.2
 - Spring MVC 5.0.2
 
+## Front
+- Bootstrap 4
+
 ### Versão
-1.0.5
+1.0.6
 
 ## Redes Sociais
 [![Twitter Follow](https://img.shields.io/twitter/follow/tiaguins.svg?style=social)](https://twitter.com/tiaguins) 
